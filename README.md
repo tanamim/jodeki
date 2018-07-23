@@ -9,7 +9,6 @@ A Decentralized Autonomous Knowledge Exchange
 5. [Our Position](#our-position)
 6. [Our Service](#our-service)
 
-
 ## Introduction
 Searching online becomes de facto standard when we seek information. Although online search engines provide a great deal of information, what we see is free content from the surface of the public web. We may want to seek for deeper knowledge from private sources by paying fees. We may hire professionals but finding good information with small budget is difficult. Our service aims to fill the gap by creating a platform that people can find better-than-free content by paying small amount of fees. Blockchain technology has made our service available by executing smart contracts with much lower operational costs.
 
