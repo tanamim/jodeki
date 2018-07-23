@@ -36,7 +36,7 @@ We have unique incentive structure to maintain high quality knowledge base. In t
 
 Before blockchain and cryptocurrency, there existed businesses that buyer can decide prices such as consulting, building a house, and making ads campaign. Since those business are designed to be one-to-one relationship, there's no chance of profit scaling that one-to-many relationship has. Therefore, buyer-led business for small fund such as one dollar was unthinkable. Now we made it possible with those new technologies––we reduce operational costs dramatically and let smart contracts work for us. Our incentive model enables extending one-to-one topology to one-to-many, allowing scale-up revenue creation.
 
-![buyer-seller-relationship](./img/buyer-seller-relationship.png)
+![buyer-seller-relationship](./img/buyer-seller-relationship.svg)
 
 ## Our Position
 Since our platform is decentralized, user's money, the knowledge base, and smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, users assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
