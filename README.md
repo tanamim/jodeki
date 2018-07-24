@@ -65,7 +65,7 @@ We have unique incentive structure to maintain high quality knowledge base. In t
 3. Users want to use this service as early as possible to gain first-mover advantage.
 
 ###### Revitalizing Buyer-led Business
-Before blockchain and cryptocurrency, there existed businesses that buyer can decide prices such as consulting or building a house. However, those businesses are designed to be one-to-one relationship, there's no chance of profit scaling that one-to-many relationship has. Therefore, buyer-led business for small fund such as one dollar was unthinkable. Now we made it possible with those new technologies––we reduce operational costs dramatically and let smart contracts work for us. Our incentive model enables extending one-to-one topology to one-to-many, allowing scale-up revenue creation.
+Before blockchain and cryptocurrency, there existed businesses that buyer can decide prices such as consulting or building a house. However, those businesses are designed to be one-to-one relationship(ⅱ), there's no chance of profit scaling that one-to-many relationship(ⅰ) has. Therefore, buyer-led business for small fund such as one dollar was unthinkable. Now we made it possible with those new technologies––we reduce operational costs dramatically and let smart contracts work for us. Our incentive model enables extending one-to-one topology to one-to-many(ⅲ), allowing scale-up revenue creation.
 
 ![buyer-seller-relationship](./img/buyer-seller-relationship.svg)
 
