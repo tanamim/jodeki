@@ -14,7 +14,7 @@ Jodeki, meaning "good job" in Japanese word, is a knowledge base that offers kno
 3. [Our Mission](#our-mission)
     1. ["Life is wonderful"](#life-is-wonderful)
 4. [Our Strategy](#our-strategy)
-    1. [Seller-led and Buyer-led Culture](#seller-led-and-buyer-led-culture)
+    1. [Seller-led vs Buyer-led Culture](#seller-led-vs-buyer-led-culture)
     2. [Incentive Structure](#incentive-structure)
     3. [Revitalizing Buyer-led Business](#revitalizing-buyer-led-business)
 5. [Our Position](#our-position)
