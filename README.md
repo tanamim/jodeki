@@ -10,7 +10,7 @@ Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledg
     3. [Procedure for Creating User Benefits](#procedure-for-creating-user-benefits)
 2. [Higher Level Understanding of Current Issue](#higher-level-understanding-of-current-issue)
     1. ["Life is Hard"](#life-is-hard)
-    2. [The money system](#the-money-system)
+    2. [The Money System](#the-money-system)
 3. [Our Mission](#our-mission)
     1. ["Life is wonderful"](#life-is-wonderful)
 4. [Our Strategy](#our-strategy)
@@ -44,7 +44,7 @@ The key feature is our incentive structure that benefits both those who ask ques
 ###### "Life is Hard"
 Upon creating this service we mean to propose a solution to higher level social issue that modern people got trapped into. One of the greatest problem we are facing is harsh realities of life. Since we invented money system, our society achieved great economic advancement; however, on the other hand, people are so caught up in the currency system and not being able to live without money. Because of the system, people are religiously obsessed with making money and forget the purpose of their life. This is a sad social plague that we want to cure.
 
-###### The money system
+###### The Money System
 What really matters is the fact that making money is too difficult. We believe that human beings are valuable by nature without money, and that we can always create new value. Because such value is not measurable and cannot be stored, we have to spend tremendous amount of energy to convert it into money. However, the rise of blockchain and cryptocurrency shed light on the problem of the current money system; thus, we offer a solution to remove obstacles to making money by applying this new technology.
 
 ## Our Mission
