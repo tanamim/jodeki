@@ -12,7 +12,7 @@ Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledg
     1. ["Life is Hard"](#life-is-hard)
     2. [The Money System](#the-money-system)
 3. [Our Mission](#our-mission)
-    1. [Freeing from Obsession with Making Money](#freeing-from-obsession-with-making-money)
+    1. [Emancipation from Obsession with Money](#emancipation-from-obsession-with-money)
 4. [Our Strategy](#our-strategy)
     1. [Seller-led vs Buyer-led Culture](#seller-led-vs-buyer-led-culture)
     2. [Incentive Structure](#incentive-structure)
