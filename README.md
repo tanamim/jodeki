@@ -1,7 +1,7 @@
 White Paper: A Decentralized Autonomous Knowledge Exchange
 ===
 ## Executive Summary <!-- omit in toc -->
-Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledge exchange service over the Ethereum blockchain network. It is also a name of the service itself, driven by an ambitious and altruistic endeavor to tackle two major problems in the modern society: 1) skewed information on the Internet fueled by ads, and 2) difficulty of earning a livelihood under the current money system. By applying blockchain and cryptocurrency technologies, Jodeki invented a unique incentive structure to bring solutions to those concerns through its knowledge exchange service.
+Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledge exchange service over the Ethereum blockchain network. It is also a name of the service itself, driven by an ambitious and altruistic endeavor to tackle two major problems in the modern society: 1) skewed information on the Internet fueled by ads, and 2) difficulty of earning a livelihood under the current money system. By applying blockchain and cryptocurrency technologies, Jodeki invented a unique incentive structure to bring solutions to those concerns through its knowledge exchange service. Since blockchain technology is encapsulated, users can use this service without thinking about the technology.
 
 ## Contents <!-- omit in toc -->
 1. [Introduction](#introduction)
@@ -92,9 +92,9 @@ Our knowledge base aims to be more valuable than google's database––it is po
 A sample user who asks a hundred of one-dollar-worth questions and each acquires ten buyers in the first month they will receive 325 dollars value of ETH`($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If no additional questions are made but there are ten buyers in the second month, they will receive 425 dollars value of ETH`($1 * 100 * 10 * 0.425 = $425)`. In more successful case, a highly reputable questioner asks a hundred-dollar-worth question and acquire thousand buyers, then they will receive 42,400 dollars value of ETH`($-100 + $100 * 1000 * 0.425 = $42,400)`. We never know how valuable knowledge we can obtain from our participants, but we are very excited to launch our service to see interesting questions and answers.
 
 ###### Instruction Free User Experience
-We designed our service to be intuitively obvious. No blockchain knowledge is necessary. The usage is essentially the same as posting a message on twitter. Just go to [Jodeki.com]() and create a user account and save an Ethereum addreess to pay and receive Ether. Then you are set. Let's start asking a question or answer to a question from your browser or smartphones/desktop applications that you download from the website.
+We designed our service to be intuitively obvious. Like you don't need to understand computer architecture to use smartphone, all the complicated technology is encapsulated. No blockchain knowledge is needed. The usage is essentially the same as posting a message on twitter. Just go to [Jodeki.com]() and create a user account and save an Ethereum addreess to pay and receive Ether. Then you are set. Let's start asking a question or answer to a question from your browser or smartphones/desktop applications that you download from the website.
 
 ###### Screen Shots
-The usage of how to ask and aswer is shown below.
+The usage of how to ask and answer is shown below.
 
 `// <TODO> Work in progress...`
