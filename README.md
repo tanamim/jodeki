@@ -26,6 +26,7 @@ Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledg
 6. [Our Service](#our-service)
     1. [User Income Simulations](#user-income-simulations)
     2. [Instruction Free User Experience](#instruction-free-user-experience)
+    3. [Screen Shots](#screen-shots)
 
 ## Introduction
 
@@ -92,3 +93,8 @@ A sample user who asks a hundred of one-dollar-worth questions and each acquires
 
 ###### Instruction Free User Experience
 We designed our service to be intuitively obvious. The usage is essentially the same as posting a message on twitter. Just go to [Jodeki.com]() and create a user account and save an Ethereum addreess to pay and receive Ether. Then you are set. Let's start asking a question or answer to a question from your browser or smartphones/desktop applications that you download from the website.
+
+###### Screen Shots
+The usage of how to ask and aswer is shown below.
+
+`// <TODO> Work in progress...`
