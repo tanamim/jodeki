@@ -35,7 +35,7 @@ Searching online becomes de facto standard when we seek information. Although on
 ###### Application of Blockchain Technology
 Our service is based on a hypothesis that if one knowledge is useful for somebody, others may also need it. We make it measurable by cryptocurrency and store it on blockchain so that smart contracts can exchange knowledge without central controller. Thereby we built a decentralized autonomous knowledge exchange. We use Ether (ETH) as cryptocurrency on Ethereum blockchain to run our smart contracts written by Solidity programming language. The knowledge base will be built on the blockchain via question-and-answer method.
 
-###### Users Benefits
+###### User Benefits
 The key feature is our incentive structure that benefits both those who ask questions and those who provide answers. For the first round, a questioner sets fee amount and post a question, then choose a winner to pay. Thereafter, when a new user pays for the answer, both the questioner and the provider will get the split fee. This operation keeps going as long as the smart contract is enabled. In this way, questioners will benefit as well as providers because we believe both are equally important contributors to the knowledge base. This unique incentive model encourages participants to improve quality of the knowledge. You don't need to have special knowledge to get reward upon our service. Just ask a great question.
 
 ## Higher Level Understanding of Current Issue
@@ -53,7 +53,7 @@ We believe humans can gain valuable knowledge from experience anytime and anywhe
 
 ## Our Strategy
 
-###### Seller-led and Buyer-led Culture
+###### Seller-led vs Buyer-led Culture
 Our service is, in a nutshell, a question-and-answer style market place where users can buy and sell knowledge. The significant characteristic is its buyer-led culture. In the standard business procedure, a seller finds a business opportunity and creates products and distribute them to buyers. The leadership of the business such as when to start, when to stop, how much to receive is on the seller side. However, in our service, the leadership is on the buyer side. For example, a knowledge buyer finds a business opportunity and ask a question by offering price to get an answer. Then, the answer will be redistributed to future buyers by the smart contract. The contract will keep generating revenue until the original buyer stops it. Therefore, we want to treat information have-nots to be the leading player.
 
 ###### Incentive Structure
