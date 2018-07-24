@@ -1,7 +1,7 @@
 White Paper: A Decentralized Autonomous Knowledge Exchange
 ===
 ## Executive Summary <!-- omit in toc -->
-Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledge exchange service over the Ethereum blockchain network. It is also a name of the service itself, driven by an ambitious and altruistic endeavor to tackle two major problems in the modern society: 1) skewed information on the Internet fueled by ads, and 2) difficulty of earning a livelihood under the current money system. By applying blockchain and cryptocurrency technologies, Jodeki invented a unique incentive structure to bring a solution to those concerns through its knowledge exchange service.
+Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledge exchange service over the Ethereum blockchain network. It is also a name of the service itself, driven by an ambitious and altruistic endeavor to tackle two major problems in the modern society: 1) skewed information on the Internet fueled by ads, and 2) difficulty of earning a livelihood under the current money system. By applying blockchain and cryptocurrency technologies, Jodeki invented a unique incentive structure to bring solutions to those concerns through its knowledge exchange service.
 
 ## Contents <!-- omit in toc -->
 1. [Introduction](#introduction)
