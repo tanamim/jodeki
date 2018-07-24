@@ -80,7 +80,7 @@ In addition to the security benefits, there are dramatic cost reduction. Our sma
 Our primary purpose is not generating profits. Rather, we want to maximize client's benefit. Hence, we aim to provide another source of income and wisdom at their hand, to help users achieve self-realization. Since we are different from economic enterprise, our position in the market is unique. We are not looking for external investors, nor income from ads. Instead, we are looking for participants; therefore, our growth strategy is bootstrap method relying on the size and activity of our user community.
 
 ###### Differentiation Factors
-Similar services already exist, but those are different from our service: Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). Yours is a blockchain-based messaging board with paywall, but it's business is seller-led style.
+Similar services already exist, but those are different from our service: Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). "Yours" is a blockchain-based messaging board with paywall, but it's business is seller-led style.
 
 ###### Foundation of Knowledge Quality
 Our knowledge base aims to be more valuable than google's database––it is possible because our data is collected from private source. [This research](https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main) authored by Michael K. Bergman titled *The Deep Web: Surfacing Hiden Value* shows that private source has 500 times more data and many times greater quality compared to the surface web.
