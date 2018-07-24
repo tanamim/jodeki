@@ -12,7 +12,7 @@ Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledg
     1. ["Life is Hard"](#life-is-hard)
     2. [The Money System](#the-money-system)
 3. [Our Mission](#our-mission)
-    1. [Emancipation from Obsession with Money](#emancipation-from-obsession-with-money)
+    1. [Emancipation from Obsession with Money](#emancipation-from-obsession-with-money)
 4. [Our Strategy](#our-strategy)
     1. [Seller-led vs Buyer-led Culture](#seller-led-vs-buyer-led-culture)
     2. [Incentive Structure](#incentive-structure)
@@ -49,7 +49,7 @@ What really matters is the fact that making money is too difficult. We believe t
 
 ## Our Mission
 
-###### Emancipation from Obsession with Money
+###### Emancipation from Obsession with Money
 We believe humans can gain valuable knowledge from experience anytime and anywhere. However, it is often invisible and volatile, therefore has no value to other people. Our mission is to minimize the energy of confining your knowledge into money by enabling it to be measurable, storable, and reusable. If we can store such a volatile value and exchange with money easily, we don't need to concern too much about future livelihood because we can generate money when necessary. We envision that one day, the fear of losing life with a paucity of money will become a thing of the past. When people don't need lots of energy for value exchange, they finally became free from obsession with money, therefore start pursuing what they really want to achieve in their life. Consequently, blockchain and cryptocurrency enable us to upgrade the money system. Through which, our application aims to empower humanity to make our life peaceful, joyful, and fulfilled.
 
 ## Our Strategy
