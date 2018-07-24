@@ -6,7 +6,7 @@ Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledg
 ## Contents <!-- omit in toc -->
 1. [Introduction](#introduction)
     1. [Problem with Public Information](#problem-with-public-information)
-    2. [Application of Blockchain Technology](#application-of-blockchain-technology)
+    2. [Technologies Under the Hood](#technologies-under-the-hood)
     3. [Procedure for Creating User Benefits](#procedure-for-creating-user-benefits)
 2. [Higher Level Understanding of Current Issue](#higher-level-understanding-of-current-issue)
     1. ["Life is Hard"](#life-is-hard)
@@ -33,7 +33,7 @@ Jodeki, meaning "good job" in Japanese, is a knowledge base that offers knowledg
 ###### Problem with Public Information
 Searching online becomes de facto standard when we seek information. Although online search engines provide a great deal of information, what we see is free content from the surface of the public web. We may want to seek for deeper knowledge from private sources by paying fees. We may hire professionals but finding good information with small budget is difficult. Our service aims to fill the gap by creating a platform that people can find better-than-free content by paying small amount of fees. Blockchain technology has made our service available by executing smart contracts with much lower operational costs.
 
-###### Application of Blockchain Technology
+###### Technologies Under the Hood
 Our service is based on a hypothesis that if one knowledge is useful for somebody, others may also need it. We make it measurable by cryptocurrency and store it on blockchain so that smart contracts can exchange knowledge without central controller. Thereby we built a decentralized autonomous knowledge exchange. We use Ether (ETH) as cryptocurrency on Ethereum blockchain to run our smart contracts written by Solidity programming language. The knowledge base will be built on the blockchain via question-and-answer method. Users are not expected to know more than this technical information to use our service.
 
 ###### Procedure for Creating User Benefits
