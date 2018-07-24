@@ -22,7 +22,7 @@ Jodeki, meaning "good job" in Japanese word, is a knowledge base that offers kno
     2. [Feasibility Assessment](#feasibility-assessment)
     3. [Altruism](#altruism)
     4. [Differentiation Factors](#differentiation-factors)
-    5. [Foundation of Quality](#foundation-of-quality)
+    5. [Foundation of Quality](#foundation-of-quality)
 6. [Our Service](#our-service)
     1. [User Income Simulations](#user-income-simulations)
     2. [Instruction Free User Experience](#instruction-free-user-experience)
