@@ -6,7 +6,7 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
 ## Contents <!-- omit in toc -->
 1. [Introduction](#introduction)
     1. [A Gap Between Public and Private Information](#a-gap-between-public-and-private-information)
-    2. [Procedure for Creating User Benefits](#procedure-for-creating-user-benefits)
+    2. [Attractive Reward System](#attractive-reward-system)
     3. [Technologies Under the Hood](#technologies-under-the-hood)
 2. [Our Mission](#our-mission)
     1. [Better Search](#better-search)
@@ -29,10 +29,10 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
 ## Introduction
 
 ###### A Gap Between Public and Private Information
-Searching online becomes de facto standard when we seek information. Although online search engines provide a great deal of information, what we see is free content from the surface of the public web. We may want to seek for deeper knowledge from private sources by paying fees. We may hire professionals but finding good information with small budget is difficult. Our service aims to fill the gap by creating a platform that people can find better-than-free content by paying small amount of fees. Thanks to blockchain technology, dramatic cost reduction has been made, allowing our service become possible.
+Searching online becomes the de facto standard when we seek information. Although online search engines provide a great deal of information, what we see is free content from the surface of the public web. We may want to seek for deeper knowledge from private sources by paying fees. We may hire professionals but finding good information with small budget is difficult. Our service aims to fill the gap by creating a platform that people can find better-than-free content by paying small amount of fees. Thanks to blockchain technology, dramatic cost reduction has been made, allowing our service become possible.
 
-###### Procedure for Creating User Benefits
-All participants can benefit from our service. The key feature is our incentive structure that benefits both those who ask questions and those who provide answers. For the first round, a questioner sets fee amount and post a question, then choose a winner to pay. Thereafter, when a new user pays for the answer, both the questioner and the provider will get the split fee. This operation keeps going as long as the smart contract is enabled. In this way, questioners will benefit as well as providers because we believe both are equally important contributors to the knowledge base. This unique incentive model encourages participants to improve quality of the knowledge. You don't need to have special knowledge to get reward upon our service. Of course, no blockchain knowledge is required. Just ask a great question.
+###### Attractive Reward System
+All participants can benefit from our service. The key feature is our incentive structure that benefits both those who ask questions and those who provide answers. For the first round, a questioner sets fee amount and post a question, then choose a winner to pay. Thereafter, when a new user pays for the answer, both the questioner and the provider will get the split fee. This operation keeps going as long as the smart contract is enabled. In this way, questioners will benefit as well as providers because we believe both are equally important contributors to the knowledge base. This unique reward system encourages participants to improve quality of the knowledge. You don't need to have special knowledge to get reward upon our service. Of course, no blockchain knowledge is required. Just ask a great question.
 
 ###### Technologies Under the Hood
 Our service is based on a hypothesis that if knowledge is useful for somebody, others may also need it, too. Our aim is to create a string of knowledge measurable and transferrable via the use of cryptocurrency, which is a digital currency used on the Internet as a medium of exchange. Encryption techniques are utilized to generate and regulate different units of such currency. And these encryption techniques also have the ability to verify the transfer of funds. Once a transaction is complete, knowledge, which will be stored on blockchain, can be easily transferred. Thereby we built a decentralized autonomous knowledge exchange. We use Ether (ETH) as cryptocurrency on Ethereum blockchain to run our smart contracts. Smart contracts can operate on blockchain and securely execute its program with very low cost, therefore we use them to reduce security and operational costs. Jodeki uses smart contracts to build knowledge base on the blockchain via question-and-answer method. Since those technical details are encapsulated, users don't need to know more than this information, in order to use our service.
@@ -65,7 +65,7 @@ Before blockchain and cryptocurrency, there existed businesses that buyer can de
 ## Our Position
 
 ###### Securing User Assets
-Since our platform is decentralized, user's money, the knowledge base, and smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, users assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
+Since our platform is decentralized, user's money, the knowledge base, and smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, users' assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
 
 ###### Feasibility Assessment
 In addition to the security benefits, there are dramatic cost reduction. Our smart contracts are deployed on the Ethereum network and executes functions such as sending money or retrieving information with very low cost (i.e., estimated less than 10 cents as of 23 Jun 2018). If we don't use blockchain, the costs of application server and database server, security hardening grow rapidly as number of users increases.
@@ -77,7 +77,7 @@ Our primary purpose is not generating profits. Rather, we want to maximize clien
 Similar services already exist, but those are different from our service. Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). "Yours" is a blockchain-based messaging board with paywall, but its business is seller-led style.
 
 ###### Quality of Knowledge
-Our knowledge base aims to be more valuable than Google's database––it is possible because our data is collected from private source. [This research](https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main) authored by Michael K. Bergman titled *The Deep Web: Surfacing Hiden Value* shows that private source has 500 times more data and many times greater quality compared to the surface web.
+Our knowledge base aims to be more valuable than Google's database––it is possible because our data is collected from private source. [This research](https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main) authored by Michael K. Bergman titled *The Deep Web: Surfacing Hidden Value* shows that private source has 500 times more data and many times greater quality compared to the surface web.
 
 ## Our Service
 
