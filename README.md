@@ -84,11 +84,11 @@ Our knowledge base aims to be more valuable than Google's database––it is po
 ###### User Income Simulations
 A sample questioner A asks a hundred of one-dollar-worth questions and each acquires ten buyers in the first month they will receive 325 dollars value of ETH`($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If no additional questions are made but there are ten buyers in the second month, they will receive 425 dollars value of ETH`($1 * 100 * 10 * 0.425 = $425)`. In more successful case, a highly reputable questioner B asks a hundred-dollar-worth question and acquire one thousand buyers, then they will receive 42,400 dollars value of ETH`($-100 + $100 * 1000 * 0.425 = $42,400)`. We never know how valuable knowledge we can obtain from our participants, but we are very excited to launch our service to see interesting questions and answers.
 
-| Name_month | Avg Q Price | Num Q&A | Ans Sold | Reward  |
+| Name-month | Avg Q Price | Num Q&A | Ans Sold | Reward  |
 | :--------- | ----------: | ------: | -------: | ------: |
-| A_1st      | $1          | 100     | 10       | $325    |
-| A_2nd      | na          | na      | 10       | $425    |
-| B_1st      | $100        | 1       | 1000     | $42,400 |
+| A-1        | $1          | 100     | 10       | $325    |
+| A-2        | na          | na      | 10       | $425    |
+| B-1        | $100        | 1       | 1000     | $42,400 |
 
 ###### Instruction Free User Experience
 We designed our service to be intuitively obvious. Since all the complicated technology is encapsulated, no blockchain knowledge is needed. The usage is essentially the same as posting a message on twitter. Just go to [Jodeki.com]() and create a user account and save an Ethereum addreess to pay and receive Ether. Then you are all set. Let's start asking a question or answer to a question from your browser or smartphones/desktop applications that you download from the website.
