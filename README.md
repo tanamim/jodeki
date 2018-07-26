@@ -82,7 +82,7 @@ Our knowledge base aims to be more valuable than Google's database––it is po
 ## Our Service
 
 ###### User Income Simulations
-A sample questioner A asks a hundred of one-dollar-worth questions and each acquires ten buyers in the first month they will receive 325 dollars value of ETH`($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If no additional questions are made but there are ten more buyers in the second month, they will receive 425 dollars value of ETH`($1 * 100 * 10 * 0.425 = $425)`. In more successful case, a highly reputable questioner B asks a hundred-dollar-worth question and acquire one thousand buyers, then they will receive 42,400 dollars value of ETH`($-100 + $100 * 1000 * 0.425 = $42,400)`. Questioners and answerers can both increase rewards by optimizing questions price, number of questions and answers, and number of sales. 
+A sample questioner A asks a hundred of one-dollar-worth questions and each acquires ten buyers in the first month they will receive 325 dollars value of ether `($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If no additional questions are made but there are ten more buyers in the second month, they will receive 425 dollars value of ether `($1 * 100 * 10 * 0.425 = $425)`. In more successful case, a highly reputable questioner B asks a hundred-dollar-worth question and acquire one thousand buyers, then they will receive 42,400 dollars value of ether `($-100 + $100 * 1000 * 0.425 = $42,400)`. Questioners and answerers can both increase rewards by optimizing questions price, number of questions and answers, and number of sales. 
 
 | Name-Month | Avg Q Price | Num Q&A | Num Sold | Rate  | Reward  |
 | :--------: | ----------: | ------: | -------: | :---: | ------: |
