@@ -8,22 +8,20 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
     1. [A Gap Between Public and Private Information](#a-gap-between-public-and-private-information)
     2. [Technologies Under the Hood](#technologies-under-the-hood)
     3. [Procedure for Creating User Benefits](#procedure-for-creating-user-benefits)
-2. [Higher Level Understanding of Current Issue](#higher-level-understanding-of-current-issue)
-    1. [A Social Issue](#a-social-issue)
-    2. [The Money System](#the-money-system)
-3. [Our Mission](#our-mission)
-    1. [Emancipation from Obsession with Money](#emancipation-from-obsession-with-money)
-4. [Our Strategy](#our-strategy)
+2. [Our Mission](#our-mission)
+    1. [Better Search](#better-search)
+    2. [Emancipation from Obsession with Money](#emancipation-from-obsession-with-money)
+3. [Our Strategy](#our-strategy)
     1. [Seller-led vs Buyer-led Culture](#seller-led-vs-buyer-led-culture)
     2. [Incentive Structure](#incentive-structure)
     3. [Revitalizing Buyer-led Business](#revitalizing-buyer-led-business)
-5. [Our Position](#our-position)
+4. [Our Position](#our-position)
     1. [Securing User Assets](#securing-user-assets)
     2. [Feasibility Assessment](#feasibility-assessment)
     3. [Altruism](#altruism)
     4. [Differentiation Factors](#differentiation-factors)
     5. [Quality of Knowledge](#quality-of-knowledge)
-6. [Our Service](#our-service)
+5. [Our Service](#our-service)
     1. [User Income Simulations](#user-income-simulations)
     2. [Instruction Free User Experience](#instruction-free-user-experience)
     3. [Screen Shots](#screen-shots)
@@ -39,15 +37,10 @@ Our service is based on a hypothesis that if knowledge is useful for somebody, o
 ###### Procedure for Creating User Benefits
 All participants can benefit from our service. The key feature is our incentive structure that benefits both those who ask questions and those who provide answers. For the first round, a questioner sets fee amount and post a question, then choose a winner to pay. Thereafter, when a new user pays for the answer, both the questioner and the provider will get the split fee. This operation keeps going as long as the smart contract is enabled. In this way, questioners will benefit as well as providers because we believe both are equally important contributors to the knowledge base. This unique incentive model encourages participants to improve quality of the knowledge. You don't need to have special knowledge to get reward upon our service. Of course, no blockchain knowledge is required. Just ask a great question.
 
-## Higher Level Understanding of Current Issue
-
-###### A Social Issue
-This service will help provide a solution for complex social issues in modern society. Among the challenges we face is harsh realities of life. Since we invented money system, our society achieved great economic advancement; however, on the other hand, people are so caught up in the currency system and not being able to live without money. Because of the system, people are religiously obsessed with making money and forget the purpose of their life. This is a sad social plague that we want to cure.
-
-###### The Money System
-What really matters is the fact that making money is too difficult. We believe that human beings are valuable by nature without money, and that we can always create new value. Because such value is not measurable and cannot be stored, we have to spend tremendous amount of energy to convert it into money. However, the rise of blockchain and cryptocurrency shed light on the problem of the current money system; thus, we offer a solution to remove obstacles to making money by applying this new technology.
-
 ## Our Mission
+
+###### Better Search
+We want to provide better search results by ads-free peer-to-peer private information retrieval. Most wev services rely on monetization from ads; therefore internet search results contain noize. We aim to provide high quality search results from private sources with little fees and make Internet more useful resource of information.
 
 ###### Emancipation from Obsession with Money
 We believe humans can gain valuable knowledge from experience anytime and anywhere. However, it is often invisible and volatile, therefore has no value to other people. Our mission is to minimize the energy of confining your knowledge into money by enabling it to be measurable, storable, and reusable. If we can store such a volatile value and exchange with money easily, we don't need to concern too much about future livelihood because we can generate money when necessary. We envision that one day, the fear of losing life with a paucity of money will become a thing of the past. When people don't need lots of energy for value exchange, they finally became free from obsession with money, therefore start pursuing what they really want to achieve in their life. Consequently, blockchain and cryptocurrency enable us to upgrade the money system. Through which, our application aims to empower humanity to make our life peaceful, joyful, and fulfilled.
