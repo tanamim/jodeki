@@ -78,6 +78,7 @@ Our knowledge base aims to be more valuable than Google's database––it is po
 
 ###### Differentiation Factors
 Similar services already exist, but those are different from our service. Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). "Yours" is a blockchain-based messaging board with paywall, but its business is seller-led style.
+
 ![jodeki-position](./img/jodeki-position.svg)
 
 ## Our Service
