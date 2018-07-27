@@ -65,7 +65,7 @@ Before blockchain and cryptocurrency, there existed businesses that buyer can de
 ## Our Position
 
 ###### Securing User Assets
-Since our platform is decentralized, users' money, the knowledge base, and the smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, users' assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
+Since our platform is decentralized, users' money, the knowledge base, and the smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, user assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
 
 ###### Feasibility Assessment
 In addition to the security benefits, there are dramatic cost reduction. Our smart contracts are deployed on the Ethereum network and executes functions such as sending money or retrieving information with very low cost (i.e., estimated less than 10 cents as of 23 Jun 2018). If we don't use blockchain, the costs of application server and database server, security hardening grow rapidly as number of users increases.
