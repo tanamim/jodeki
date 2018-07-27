@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="721px" height="529px" viewBox="0 0 721 529" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>jodeki-position</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(81.000000, 42.000000)" fill="#979797" fill-rule="nonzero">
+            <path id="Line" d="M565,227.5 L556,223 L556,232 L565,227.5 Z M0.5,228 L556.5,228 L557,228 L557,227 L556.5,227 L0.5,227 L0,227 L0,228 L0.5,228 Z"></path>
+            <path id="Line-2" d="M282.5,0 L278,9 L287,9 L282.5,0 Z M283,453.5 L283,8.5 L283,8 L282,8 L282,8.5 L282,453.5 L282,454 L283,454 L283,453.5 Z"></path>
+        </g>
+        <g id="Group-2" transform="translate(81.000000, 380.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Google" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="24" y="65">Google</tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(126.000000, 119.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Quora" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="29" y="65">Quora</tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(374.000000, 140.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Freelancer" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="7" y="65">Freelancer</tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(543.000000, 24.000000)">
+            <circle id="Oval" fill="#4A4A4A" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Jodeki" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="26" y="65">Jodeki</tspan>
+            </text>
+        </g>
+        <g id="Group-2" transform="translate(81.000000, 42.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Stack-Overflow" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="21" y="52">Stack</tspan>
+                <tspan x="21" y="76">Overflow</tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(374.000000, 301.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Yours" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="30" y="65">Yours</tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(515.000000, 284.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Udemy" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="25" y="65">Udemy</tspan>
+            </text>
+        </g>
+        <g id="Group-2-Copy" transform="translate(543.000000, 359.000000)">
+            <circle id="Oval" fill-opacity="0.6" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <text id="Lynda" font-family="Helvetica-Bold, Helvetica" font-size="20" font-weight="bold" fill="#FFFFFF">
+                <tspan x="29" y="65">Lynda</tspan>
+            </text>
+        </g>
+        <text id="Buyer-Led" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#4A4A4A">
+            <tspan x="317" y="19">Buyer-Led</tspan>
+        </text>
+        <text id="Seller-Led" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#4A4A4A">
+            <tspan x="315" y="524">Seller-Led</tspan>
+        </text>
+        <text id="Public-Surface-Web" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#4A4A4A">
+            <tspan x="0" y="254">Public</tspan>
+            <tspan x="0" y="278">Surface</tspan>
+            <tspan x="0" y="302">Web</tspan>
+        </text>
+        <text id="Private-Deep-Web" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#4A4A4A">
+            <tspan x="659" y="254">Private</tspan>
+            <tspan x="659" y="278">Deep</tspan>
+            <tspan x="659" y="302">Web</tspan>
+        </text>
+    </g>
+</svg>

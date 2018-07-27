@@ -19,8 +19,8 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
     1. [Securing User Assets](#securing-user-assets)
     2. [Feasibility Assessment](#feasibility-assessment)
     3. [Altruism](#altruism)
-    4. [Differentiation Factors](#differentiation-factors)
-    5. [Quality of Knowledge](#quality-of-knowledge)
+    4. [Quality of Knowledge](#quality-of-knowledge)
+    5. [Differentiation Factors](#differentiation-factors)
 5. [Our Service](#our-service)
     1. [User Income Simulations](#user-income-simulations)
     2. [Instruction Free User Experience](#instruction-free-user-experience)
@@ -73,11 +73,12 @@ In addition to the security benefits, there are dramatic cost reduction. Our sma
 ###### Altruism
 Our primary purpose is not generating profits. Rather, we want to maximize client's benefit. Hence, we aim to provide another source of income and wisdom at their hand, to help users achieve self-realization. Since we are different from economic enterprise, our position in the market is unique. We are not looking for external investors, nor income from ads. Instead, we are looking for participants; therefore, our growth strategy is bootstrap method relying on the size and activity of our user community.
 
-###### Differentiation Factors
-Similar services already exist, but those are different from our service. Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). "Yours" is a blockchain-based messaging board with paywall, but its business is seller-led style.
-
 ###### Quality of Knowledge
 Our knowledge base aims to be more valuable than Google's database––it is possible because our data is collected from private source. [This research](https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main) authored by Michael K. Bergman titled *The Deep Web: Surfacing Hidden Value* shows that private source has 500 times more data and many times greater quality compared to the surface web.
+
+###### Differentiation Factors
+Similar services already exist, but those are different from our service. Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). "Yours" is a blockchain-based messaging board with paywall, but its business is seller-led style.
+![jodeki-position](./img/jodeki-position.svg)
 
 ## Our Service
 
