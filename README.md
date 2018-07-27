@@ -65,7 +65,7 @@ Before blockchain and cryptocurrency, there existed businesses that buyer can de
 ## Our Position
 
 ###### Securing User Assets
-Since our platform is decentralized, user's money, the knowledge base, and smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, users' assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
+Since our platform is decentralized, users' money, the knowledge base, and the smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, users' assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
 
 ###### Feasibility Assessment
 In addition to the security benefits, there are dramatic cost reduction. Our smart contracts are deployed on the Ethereum network and executes functions such as sending money or retrieving information with very low cost (i.e., estimated less than 10 cents as of 23 Jun 2018). If we don't use blockchain, the costs of application server and database server, security hardening grow rapidly as number of users increases.
@@ -82,7 +82,7 @@ Our knowledge base aims to be more valuable than Google's database––it is po
 ## Our Service
 
 ###### User Income Simulations
-A sample questioner A asks a hundred of one-dollar-worth questions and each acquires ten buyers in the first month they will receive 325 dollars value of ether `($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If no additional questions are made but there are ten more buyers in the second month, they will receive 425 dollars value of ether `($1 * 100 * 10 * 0.425 = $425)`. In more successful case, a highly reputable questioner B asks a hundred-dollar-worth question and acquire one thousand buyers, then they will receive 42,400 dollars value of ether `($-100 + $100 * 1000 * 0.425 = $42,400)`. Questioners and answerers can both increase rewards by optimizing questions price, number of questions and answers, and number of sales. 
+A sample questioner A asks a hundred of one-dollar-worth questions and each acquires ten buyers in the first month, they will receive 325 dollars value of ether `($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If no additional questions are made but there are ten more buyers in the second month, they will receive 425 dollars value of ether `($1 * 100 * 10 * 0.425 = $425)`. In more successful case, a highly reputable questioner B asks a hundred-dollar-worth question that acquires one thousand buyers, they will receive 42,400 dollars value of ether `($-100 + $100 * 1000 * 0.425 = $42,400)`. Questioners and answerers can both increase rewards by optimizing questions price, number of questions and answers, and number of sales. 
 
 | Name-Month | Avg Q Price | Num Q&A | Num Sold | Rate  | Reward  |
 | :--------: | ----------: | ------: | -------: | :---: | ------: |
