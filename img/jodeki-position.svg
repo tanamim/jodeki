@@ -28,7 +28,7 @@
             </text>
         </g>
         <g id="Group-2-Copy" transform="translate(624.000000, 8.000000)">
-            <circle id="Oval" stroke="#979797" fill="#4A4A4A" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+            <circle id="Oval" fill="#4A4A4A" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Jodeki" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#FFFFFF">
                 <tspan x="29" y="65">Jodeki</tspan>
             </text>
