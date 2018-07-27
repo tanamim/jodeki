@@ -87,7 +87,7 @@ A sample questioner A asks a hundred of one-dollar-worth questions and each acqu
 | Name-Month | Avg Price | Num Q&A | Num Sold | Reward Rate | Reward  |
 | :--------: | --------: | ------: | -------: | :---------: | ------: |
 | A-1        | $1        | 100     | 10       | 42.5%       | $325    |
-| A-2        | na        | na      | 10       | 42.5%       | $425    |
+| A-2        | -         | -       | 10       | 42.5%       | $425    |
 | B-1        | $100      | 1       | 1000     | 42.5%       | $42,400 |
 
 ###### Instruction Free User Experience
