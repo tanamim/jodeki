@@ -40,13 +40,13 @@
                 <tspan x="18" y="77">Overflow</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(422.000000, 297.000000)">
+        <g id="Group-2-Copy" transform="translate(429.000000, 270.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Yours" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="33" y="65">Yours</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(578.000000, 273.000000)">
+        <g id="Group-2-Copy" transform="translate(573.000000, 280.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Piazza" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="29" y="65">Piazza</tspan>
