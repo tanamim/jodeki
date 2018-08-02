@@ -1,7 +1,7 @@
 White Paper: A Decentralized Autonomous Knowledge Exchange
 ===
 ## Executive Summary <!-- omit in toc -->
-Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers knowledge exchange service over decentralized network. It is also a name of the service itself, driven by an ambitious and altruistic endeavor to tackle two major problems in modern society: 1) skewed information on the Internet fueled by ads, and 2) difficulty of earning a livelihood under the current money system. By applying blockchain and cryptocurrency technologies, Jodeki invented a unique incentive structure to bring solutions to those concerns through its knowledge exchange service. Since blockchain technology is encapsulated, users can use this service without thinking about the technology.
+Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers knowledge exchange service over decentralized network. It is also a name of the service itself, driven by an ambitious and altruistic endeavor to tackle two major problems in modern society: 1) skewed information on the Internet fueled by ads, and 2) difficulty of earning a livelihood under the current money system. By applying blockchain and cryptocurrency technologies, Jodeki has invented a unique incentive structure to bring solutions to those concerns through its knowledge exchange service. Since blockchain technology is encapsulated, users can use this service without thinking about the technology.
 
 ## Contents <!-- omit in toc -->
 1. [Introduction](#introduction)
@@ -29,7 +29,7 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
 ## Introduction
 
 ###### A Gap Between Public and Private Information
-Searching online has become the de facto standard when we seek information. Although online search engines provide a great deal of information, what we see is free content from the surface of the public web. We may want to seek for deeper knowledge from private sources by paying fees. We may hire professionals but finding good information with small budget is difficult. Our service aims to fill the gap by creating a platform that people can find better-than-free content by paying small amount of fees. Thanks to blockchain technology, dramatic cost reduction has been made, allowing our service become possible.
+Searching online has become the de facto standard when we seek information. Although online search engines provide a great deal of information, they only provide free content available on the surface of the web. Search engine users may want to seek for deeper knowledge from private sources by paying fees. They may hire professionals but finding good information with small budget is difficult. Our service aims to fill the gap by creating a platform that people can find better-than-free content by paying small amount of fees. Thanks to blockchain technology, dramatic cost reduction has been made, allowing our service to become possible.
 
 ###### Attractive Reward System
 All participants can benefit from our service. The key feature is our incentive structure that benefits both those who ask questions and those who provide answers. For the first round, a questioner sets fee amount and post a question, then choose a winner to pay. Thereafter, when a new user pays for the answer, both the questioner and the provider will get the split fee. This operation keeps going as long as the smart contract is enabled. In this way, questioners will benefit as well as answerers because we believe both are equally important contributors to the knowledge base. This unique reward system encourages participants to improve quality of the knowledge. You don't need to have special knowledge to get reward upon our service. Of course, no blockchain knowledge is required. Just ask a great question.
@@ -40,10 +40,10 @@ Our service is based on a hypothesis that if knowledge is useful for somebody, o
 ## Our Mission
 
 ###### Better Search
-We want to provide high quality search functions by ads-free private information retrieval. Since most public web services implement ads for monetization at the expence of contents quality, the Internet search results can be skewed towards ads. We removed ads and allow users to get information from private sources with a little fee and make Internet search more efficient. We designed attractive reward system to encourage users to provide knowledge at their best, thereby users begin helping to change how Internet users of the world can gain access to the better knowledge easier.
+We want to provide high quality search functions through ads-free private information retrieval. Since most public web services implement ads for monetization at the expence of contents quality, the Internet search results can be skewed towards ads. We removed ads and allow users to get information from private sources with a little fee and make Internet search more efficient. We designed an attractive reward system to encourage users to provide knowledge at their best, thereby users begin helping to change how Internet users of the world can gain access to the best knowledge easier.
 
 ###### Emancipation from Obsession with Money
-We believe humans can gain valuable knowledge from experience anytime and anywhere. However, it is often invisible and volatile, therefore has no value to other people. Our mission is to minimize the energy of confining your knowledge into money by enabling it to be measurable, storable, and reusable. If we can store such a volatile value and exchange with money easily, we don't need to concern too much about future livelihood because we can generate money when necessary. We envision that one day, the fear of losing life with a paucity of money will become a thing of the past. When people don't need lots of energy for value exchange, they finally become free from obsession with money, therefore start pursuing what they really want to achieve in their life. Consequently, blockchain and cryptocurrency enable us to upgrade the money system. Through which, our application aims to empower humanity to make our life peaceful, joyful, and fulfilled.
+We believe humans can gain valuable knowledge from experience anytime and anywhere. However, it is often invisible and volatile, therefore has no value to other people. Our mission is to minimize the energy of confining your knowledge into money by enabling it to be measurable, storable, and reusable. If we can store such a volatile value and exchange with money easily, we don't need to concern too much about future livelihood because we can generate money when necessary.
 
 ## Our Strategy
 
@@ -51,7 +51,7 @@ We believe humans can gain valuable knowledge from experience anytime and anywhe
 Our service is, in a nutshell, a question-and-answer style market place where users can buy and sell knowledge. The significant characteristic is its buyer-led culture. In the standard business procedure, a seller finds a business opportunity and creates products and distribute them to buyers. The leadership of the business such as when to start, when to stop, how much to receive is on the seller side. However, in our service, the leadership is on the buyer side. For example, a knowledge buyer finds a business opportunity and ask a question by offering price to get an answer. Then, the answer will be redistributed to future buyers by the smart contract. The contract will keep generating revenue until the original buyer stops it. Therefore, we want to treat information have-nots to be the leading player.
 
 ###### Incentive Structure
-We designed attractive reward system to maintain high quality knowledge base. In terms of fee distribution, we charge 15% from each transaction to improve service quality. For the first round, the answer provider will receive 85%. From the second round thereafter, 85% will be split into halves, therefore the answer provider and the original buyer will receive 42.5% each for contributing to the knowledge base. Through those conditions we motivate participants to generate returns over the long run, and create well-intended atmosphere such that:
+We designed an attractive reward system to maintain high quality knowledge base. In terms of fee distribution, we charge 15% from each transaction to improve service quality. For the first round, the answer provider will receive 85%. From the second round thereafter, 85% will be split into halves, therefore the answer provider and the original buyer will receive 42.5% each for contributing to the knowledge base. Through those conditions we motivate participants to generate returns over the long run, and create well-intended atmosphere such that:
 
 1. Users want to ask a question in a way that many people will also want to know the answer.
 2. Users want to provide their best answer in a way that many people can understand.
@@ -62,13 +62,13 @@ Before blockchain and cryptocurrency, there existed businesses that buyer can de
 
 ![buyer-seller-relationship](./img/buyer-seller-relationship.svg)
 
-## Our Position
+## Our Purpose
 
 ###### Securing User Assets
 Since our platform is decentralized, users' money, the knowledge base, and the smart contracts are not stored in our proprietary server. In this way, we ruled out the risk of being hacked, because there's no single point of failure. At the worst case, cyberattack might be able to shut down our application server. However, user assets will be secured on the blockchain and they can use our service without problem through the client app installed in their smartphones and computers.
 
 ###### Feasibility Assessment
-In addition to the security benefits, there are dramatic cost reduction. Our smart contracts are deployed on the Ethereum network and executes functions such as sending money or retrieving information with very low cost (i.e., estimated less than 10 cents as of 23 Jun 2018). If we don't use blockchain, the costs of application server and database server, security hardening grow rapidly as number of users increases.
+In addition to the security benefits, Jodeki enables a dramatic cost reduction. Our smart contracts are deployed on the Ethereum network and executes functions such as sending money or retrieving information with very low cost (i.e., estimated less than 5 cents as of 3 August 2018). If we don't use blockchain, the costs of application server and database server, security hardening grow rapidly as number of users increases.
 
 ###### Altruism
 Our primary purpose is not generating profits. Rather, we want to maximize client's benefit. Hence, we aim to provide another source of income and wisdom at their hand, to help users achieve self-realization. Since we are different from economic enterprise, our position in the market is unique. We are not looking for external investors, nor income from ads. Instead, we are looking for participants; therefore, our growth strategy is bootstrap method relying on the size and activity of our user community.
@@ -77,7 +77,7 @@ Our primary purpose is not generating profits. Rather, we want to maximize clien
 Our knowledge base aims to be more valuable than Google's database––it is possible because our data is collected from private source. [This research](https://quod.lib.umich.edu/j/jep/3336451.0007.104?view=text;rgn=main) authored by Michael K. Bergman titled *The Deep Web: Surfacing Hidden Value* shows that private source has 500 times more data and many times greater quality compared to the surface web.
 
 ###### Differentiation Factors
-Similar services already exist, but those are different from our service. Most companies provide information from the surface web, also their revenue model is mainly from ads (Google, StackOverflow, Quora, Yahoo! Answers). "Yours" is a blockchain-based messaging board with paywall, but its business is seller-led style.
+Similar services already exist, but those are different in terms of who creates content and where does the content comes from. Most companies provide information from the surface web, and their revenue model is mainly from ads (Google, StackOverflow, Quora). Other services such as Lynda, Udemy, and Yours create content for membership users or content buyers. In Freelancer, users lead content creation by hiring professionals in private space; therefore, its business is one-to-one model and not scalable. However, Jodeki offers scalable business platform based on a buyer-led one-to-many relationship.
 
 ![jodeki-position](./img/jodeki-position.svg)
 
