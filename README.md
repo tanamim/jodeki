@@ -94,8 +94,3 @@ A sample questioner A asks a hundred of one-dollar-worth questions and each acqu
 
 ###### Instruction Free User Experience
 We designed our service to be intuitively obvious. Since all the complicated technology is encapsulated, no blockchain knowledge is needed. The usage is essentially the same as posting a message on twitter. Just go to [Jodeki.com]() and create a user account and save an Ethereum addreess to pay and receive Ether. Then you are all set. Let's start asking a questions or answering to a question from your browser or smartphones/desktop applications that you download from the website.
-
-###### Screen Shots
-The usage of how to ask and answer is shown below.
-
-`// <TODO> Work in progress...`
