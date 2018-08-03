@@ -15,7 +15,7 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
     1. [Seller-led vs Buyer-led Culture](#seller-led-vs-buyer-led-culture)
     2. [Incentive Structure](#incentive-structure)
     3. [Revitalizing Buyer-led Business](#revitalizing-buyer-led-business)
-4. [Our Position](#our-position)
+4. [Our Purpose](#our-purpose)
     1. [Securing User Assets](#securing-user-assets)
     2. [Feasibility Assessment](#feasibility-assessment)
     3. [Altruism](#altruism)
@@ -24,7 +24,6 @@ Jodeki *[ʤoʊdəki]*, meaning "good job" in Japanese, is a platform that offers
 5. [Our Service](#our-service)
     1. [User Income Simulations](#user-income-simulations)
     2. [Instruction Free User Experience](#instruction-free-user-experience)
-    3. [Screen Shots](#screen-shots)
 
 ## Introduction
 
