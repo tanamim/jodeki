@@ -1,78 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="808px" height="504px" viewBox="0 0 808 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+<svg width="788px" height="504px" viewBox="0 0 788 504" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
     <title>jodeki-position</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(81.000000, 28.000000)" fill="#979797" fill-rule="nonzero">
+        <g id="Group" transform="translate(71.000000, 28.000000)" fill="#979797" fill-rule="nonzero">
             <path id="Line" d="M658.916814,227.5 L649.916814,223 L649.916814,232 L658.916814,227.5 Z M0.583185841,228 L650.416814,228 L650.916814,228 L650.916814,227 L650.416814,227 L0.583185841,227 L0.0831858407,227 L0.0831858407,228 L0.583185841,228 Z"></path>
             <path id="Line-2" d="M329.5,0 L325,9 L334,9 L329.5,0 Z M330,453.5 L330,8.5 L330,8 L329,8 L329,8.5 L329,453.5 L329,454 L330,454 L330,453.5 Z"></path>
         </g>
-        <g id="Group-2" transform="translate(81.000000, 366.000000)">
+        <g id="Group-2" transform="translate(71.000000, 366.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Google" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="25" y="65">Google</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(158.000000, 106.000000)">
+        <g id="Group-2-Copy" transform="translate(148.000000, 106.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Quora" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="30" y="65">Quora</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(429.000000, 113.000000)">
+        <g id="Group-2-Copy" transform="translate(419.000000, 113.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Freelancer" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="10" y="65">Freelancer</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(624.000000, 8.000000)">
-            <circle id="Oval" fill="#4A4A4A" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
+        <g id="Group-2-Copy" transform="translate(614.000000, 8.000000)">
+            <circle id="Oval" fill="#FE314A" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Jodeki" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#FFFFFF">
                 <tspan x="29" y="65">Jodeki</tspan>
             </text>
         </g>
-        <g id="Group-2" transform="translate(100.000000, 28.000000)">
+        <g id="Group-2" transform="translate(90.000000, 28.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Stack-Overflow" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="18" y="53">Stack</tspan>
                 <tspan x="18" y="77">Overflow</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(423.000000, 288.000000)">
+        <g id="Group-2-Copy" transform="translate(413.000000, 288.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Yours" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="33" y="65">Yours</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(582.000000, 280.000000)">
+        <g id="Group-2-Copy" transform="translate(572.000000, 280.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Udemy" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="26" y="65">Udemy</tspan>
             </text>
         </g>
-        <g id="Group-2-Copy" transform="translate(616.000000, 366.000000)">
+        <g id="Group-2-Copy" transform="translate(606.000000, 366.000000)">
             <circle id="Oval" fill-opacity="0.25" fill="#9B9B9B" fill-rule="nonzero" cx="58" cy="58" r="58"></circle>
             <text id="Lynda" font-family="Helvetica-Light, Helvetica" font-size="20" font-weight="300" fill="#000000">
                 <tspan x="31" y="65">Lynda</tspan>
             </text>
         </g>
         <text id="Buyer-Led" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" fill="#4A4A4A">
-            <tspan x="369" y="18">Buyer-Led</tspan>
+            <tspan x="359" y="18">Buyer-Led</tspan>
         </text>
         <text id="Seller-Led" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" fill="#4A4A4A">
-            <tspan x="369" y="500">Seller-Led</tspan>
+            <tspan x="359" y="500">Seller-Led</tspan>
         </text>
-        <text id="Public-Surface-Web" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" fill="#4A4A4A">
-            <tspan x="0" y="240">Public</tspan>
-            <tspan x="0" y="262">Surface</tspan>
-            <tspan x="0" y="284">Web</tspan>
+        <text id="Surface-Web" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" fill="#4A4A4A">
+            <tspan x="0" y="247">Surface</tspan>
+            <tspan x="0" y="269">Web</tspan>
         </text>
-        <text id="Private-Deep-Web" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" fill="#4A4A4A">
-            <tspan x="752" y="240">Private</tspan>
-            <tspan x="752" y="262">Deep</tspan>
-            <tspan x="752" y="284">Web</tspan>
+        <text id="Deep-Web" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" fill="#4A4A4A">
+            <tspan x="743" y="247">Deep</tspan>
+            <tspan x="743" y="269">Web</tspan>
         </text>
     </g>
 </svg>
