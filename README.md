@@ -85,11 +85,11 @@ Similar services already exist, but those are different regarding who creates co
 ###### User Income Simulations
 A sample Questioner A asks a hundred one-dollar-worth questions, and each acquires ten buyers in the first month. They will receive \$325 value of ether `($-1 * 100 + $1 * 100 * 10 * 0.425 = $325)`. If they don't ask additional questions, however, there are ten more buyers in the second month, they will receive \$425 value of ether `($1 * 100 * 10 * 0.425 = $425)`. In a more successful case, a highly reputable Questioner B asks a hundred-dollar-worth question, and it acquires one thousand buyers. They will receive \$42,400 value of ether `($-100 + $100 * 1000 * 0.425 = $42,400)`. Questioners and answerers can both increase rewards by optimizing the offer price of questions, the number of questions or answers, and the number of sales.
 
-| Name-Month | Avg Price | Num Q&A | Num Sold | Reward Rate | Reward  |
-| :--------: | --------: | ------: | -------: | :---------: | ------: |
-| A-1        | $1        | 100     | 10       | 42.5%       | $325    |
-| A-2        | -         | -       | 10       | 42.5%       | $425    |
-| B-1        | $100      | 1       | 1000     | 42.5%       | $42,400 |
+| Name-Month | Avg Price | Num Q&A | Num Sold | Reward Rate | Total Income |
+| :--------: | --------: | ------: | -------: | :---------: | -----------: |
+| A-1        | $1        | 100     | 10       | 42.5%       | $325         |
+| A-2        | -         | -       | 10       | 42.5%       | $425         |
+| B-1        | $100      | 1       | 1000     | 42.5%       | $42,400      |
 
 ###### Instruction Free User Experience
 Jodeki is designed to be intuitively obvious. It made all the complicated technology tucked away, so no blockchain knowledge is needed to use the service. The usage is as comfortable as posting a message on Twitter. Just go to [Jodeki.com]() and create a user account and save an Ethereum address to pay and receive fees in Ether (ETH). Then, you are all set. Let's start by asking a question or answering a question from your browser or smartphones/desktop applications that you can download from the website.
