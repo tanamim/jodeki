@@ -64,7 +64,7 @@ Before blockchain and cryptocurrency, businesses existed where the buyer could d
 ## Our Purpose
 
 ###### Securing User Assets
-Since Jodeki is a decentralized platform, users' money, the knowledge base, and the smart contracts are not stored in its proprietary server. In this way, it rules out the risk of being hacked, because there's no single point of failure. In the worst case, a cyber attack might be able to shut down the application server. However, user assets will be secured on the blockchain, and users can use Jodeki service without problem through the client app installed on their smartphones and computers.
+Since Jodeki is a decentralized platform, users' money, the knowledge base, and the smart contracts are not stored in its proprietary server. In this way, it rules out the risk of being hacked, because there's no single point of failure. In the worst case, a cyber attack might be able to shut down the application server. However, user assets will be secured on the blockchain, and users can use Jodeki without problem through the client app installed on their smartphones and computers.
 
 ###### Feasibility Assessment
 In addition to the security benefits, Jodeki enables a dramatic cost reduction. Jodeki's smart contracts are deployed on the Ethereum network and will execute functions such as sending money or retrieving information with little cost (i.e., estimated at less than 5 cents as of 3 August 2018). The costs of running application servers and database servers, and of security hardening are not affected by the increase of user base on the blockchain while, on the other hand, those costs without blockchain increase approximately linearly with the number of users.
