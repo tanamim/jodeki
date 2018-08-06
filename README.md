@@ -57,7 +57,7 @@ We designed an attractive reward system in order to maintain a high-quality know
 3. Users will want to use Jodeki as early as possible to gain first-mover advantages.
 
 ###### Revitalizing Buyer-Led Business
-Before blockchain and cryptocurrency, businesses existed where the buyer could decide prices on items such as consulting or house building. However, those businesses are designed to be (ⅱ) one-to-one relationships, and there is no chance of profit scaling that a (ⅰ) one-to-many relationship has. Thus, a buyer-led business for a small fund such as one dollar was unthinkable. Now, we have made it possible with these new technologies––reducing operational costs dramatically and letting smart contracts work for us. Our incentive model enables extending one-to-one topology to (ⅲ) one-to-many, allowing scale-up revenue creation.
+Before blockchain and cryptocurrency, businesses existed where the buyer could decide prices on items such as consulting or house building. However, those businesses are designed to be (ⅱ) one-to-one relationships, and there is no chance of profit scaling that a (ⅰ) one-to-many relationship has. Thus, a buyer-led business for a small fund such as one dollar was unthinkable. Now, Jodeki has made it possible with these new technologies––reducing operational costs dramatically and letting smart contracts work for us. Our incentive model enables extending one-to-one topology to (ⅲ) one-to-many, allowing scale-up revenue creation.
 
 ![buyer-seller-relationship](./img/buyer-seller-relationship.svg)
 
